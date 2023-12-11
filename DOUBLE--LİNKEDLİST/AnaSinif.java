@@ -4,7 +4,6 @@ package CYBL;
 import java.util.Scanner;
 
 public class AnaSinif {
-
 	public static void main(String[] args) {
 		CYBL cybl=new CYBL();     //cybl yerine istediğin bir değişken atayabilirsin
 		Eleman el=new Eleman(12345,"Ahmet","Çoban");
